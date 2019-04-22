@@ -1,0 +1,14 @@
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.deps.json
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.runtimeconfig.json
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.runtimeconfig.dev.json
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.csproj.CoreCompileInputs.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.RazorAssemblyInfo.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.RazorAssemblyInfo.cs
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.AssemblyInfoInputs.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.AssemblyInfo.cs
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.pdb
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.pdb
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\CompanyAPI\obj\Debug\netcoreapp2.1\CompanyAPI.csprojAssemblyReference.cache
