@@ -1,0 +1,17 @@
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\TestCompanyAPI.deps.json
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\TestCompanyAPI.runtimeconfig.json
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\TestCompanyAPI.runtimeconfig.dev.json
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\TestCompanyAPI.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\TestCompanyAPI.pdb
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\bin\Debug\netcoreapp2.1\CompanyAPI.pdb
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.csprojAssemblyReference.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.csproj.CoreCompileInputs.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.AssemblyInfoInputs.cache
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.AssemblyInfo.cs
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.csproj.CopyComplete
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.dll
+C:\Users\10150006\Google Drive\Practice\CompanyAPI\TestCompanyAPI\obj\Debug\netcoreapp2.1\TestCompanyAPI.pdb
