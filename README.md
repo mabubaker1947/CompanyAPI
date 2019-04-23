@@ -74,7 +74,7 @@ Project is built with the following technologies, in order to run the API live t
   db.Companies.find({}).pretty()
   ```
 
-# API Invocations via PostMan:
+# API Invocations via PostMan Client:
 As you run the application in IIS Express or Google Chrome it would be running on a port that is made available by OS: for-example port 44368 was made available for me by my OS at the time of development.
 1. GET:
   Request: http://localhost:44368/api/companies
