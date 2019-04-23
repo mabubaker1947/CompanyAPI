@@ -113,31 +113,31 @@ As you run the application in IIS Express or Google Chrome it would be running o
   Request: https://localhost:44368/api/Companies/GetCompanyById?Id=5cbaea74ace51b4c9ef6b04c
 
   Response:
-    ```
-    {
-      "id": "5cbaea74ace51b4c9ef6b04c",
-      "isin": "AB123467",
-      "name": "Glass Lewis",
-      "stockTicker": "GLewis",
-      "exchange": "Computers"
-    }
-    ```
+  ```
+  {
+    "id": "5cbaea74ace51b4c9ef6b04c",
+    "isin": "AB123467",
+    "name": "Glass Lewis",
+    "stockTicker": "GLewis",
+    "exchange": "Computers"
+  }
+  ```
     
 3. GET by Isin:
   
   Request: https://localhost:44368/api/Companies/GetCompanyByIsin?isin=AB12345
 
   Response: 
-    ```
-    {
-      "id": "5cbaea74ace51b4c9ef6b04b",
-      "isin": "AB12345",
-      "name": "Orange Inc",
-      "stockTicker": "Org",
-      "exchange": "Computers",
-      "website": "www.orange.org"
-    }
-    ```
+  ```
+  {
+    "id": "5cbaea74ace51b4c9ef6b04b",
+    "isin": "AB12345",
+    "name": "Orange Inc",
+    "stockTicker": "Org",
+    "exchange": "Computers",
+    "website": "www.orange.org"
+  }
+  ```
     
 4. POST:
   
